@@ -1,0 +1,6 @@
+{
+  "name": "NewsLens AI – Agentic AI News Analysis",
+  "description": "Multi-source news retrieval, claim extraction, publisher viewpoint comparison, and balanced synthesis with interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
